@@ -1357,4 +1357,12 @@
     <ProjectCapability Remove="AssemblyReferences" />
     <ProjectCapability Remove="ReferenceManagerAssemblies" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\Sprites\Characters\Enemies\ghost.png" />
+    <Content Include="Assets\Sprites\Characters\Player\blue-bird.png" />
+    <Content Include="Assets\Sprites\Characters\Player\parachute.png" />
+    <Content Include="Assets\Sprites\Characters\Player\red-bird.png" />
+    <Content Include="Assets\Sprites\Characters\Player\star.png" />
+    <Content Include="Assets\Sprites\Characters\Player\yellow-bird.png" />
+  </ItemGroup>
 </Project>
